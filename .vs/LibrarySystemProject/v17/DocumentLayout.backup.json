@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\d.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\d.dal.sqlserver\\unitofwork\\sqlunitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\unitofwork\\sqlunitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\d.dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\c.repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\c.repository\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\b.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\c.repository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\librarysystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\d.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\qhjinp2s..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\b.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\b.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\b.domain\\enums\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\enums\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\b.domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\b.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\user\\source\\repos\\librarysystemproject\\librarysystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\qhjinp2s..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\qhjinp2s..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs*",
+              "RelativeToolTip": "D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:43:29.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "C.Repository\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\Repositories\\IBookRepository.cs*",
+              "RelativeToolTip": "C.Repository\\Repositories\\IBookRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:36:00.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "C.Repository\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\Repositories\\IUserRepository.cs*",
+              "RelativeToolTip": "C.Repository\\Repositories\\IUserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:35:33.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\Common\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "C.Repository\\Common\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\Common\\IUnitOfWork.cs*",
+              "RelativeToolTip": "C.Repository\\Common\\IUnitOfWork.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:34:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs*",
+              "RelativeToolTip": "D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:33:16.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseSqlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs*",
+              "RelativeToolTip": "D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:30:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\LibrarySystemProject\\appsettings.json",
+              "RelativeDocumentMoniker": "LibrarySystemProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\LibrarySystemProject\\appsettings.json*",
+              "RelativeToolTip": "LibrarySystemProject\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T13:27:12.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "B.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Entities\\Book.cs*",
+              "RelativeToolTip": "B.Domain\\Entities\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:22:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\qhjinp2s..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\qhjinp2s..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T12:36:27.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\Context\\AppDbContext.cs*",
+              "RelativeToolTip": "D.DAL.SqlServer\\Context\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:27:09.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "B.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Entities\\User.cs*",
+              "RelativeToolTip": "B.Domain\\Entities\\User.cs*",
+              "ViewState": "AgIAAAwAAABAZmZmZmYkwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:12:57.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\BaseEntities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "B.Domain\\BaseEntities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\BaseEntities\\BaseEntity.cs*",
+              "RelativeToolTip": "B.Domain\\BaseEntities\\BaseEntity.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:11:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Languages.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Enums\\Languages.cs",
+              "RelativeDocumentMoniker": "B.Domain\\Enums\\Languages.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Enums\\Languages.cs*",
+              "RelativeToolTip": "B.Domain\\Enums\\Languages.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:25:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "B.Domain\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Enums\\Gender.cs*",
+              "RelativeToolTip": "B.Domain\\Enums\\Gender.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:19:41.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "B.Domain\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\Enums\\UserType.cs*",
+              "RelativeToolTip": "B.Domain\\Enums\\UserType.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:20:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\LibrarySystemProject\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystemProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\LibrarySystemProject\\Program.cs",
+              "RelativeToolTip": "LibrarySystemProject\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:59:36.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
