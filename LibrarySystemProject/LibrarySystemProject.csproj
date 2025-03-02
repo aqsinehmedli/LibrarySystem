@@ -11,7 +11,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\A.Common\A.Common.csproj" />
+    <ProjectReference Include="..\B.Domain\B.Domain.csproj" />
+    <ProjectReference Include="..\C.Repository\C.Repository.csproj" />
+    <ProjectReference Include="..\D.DAL.SqlServer\D.DAL.SqlServer.csproj" />
+    <ProjectReference Include="..\E.Application\E.Application.csproj" />
   </ItemGroup>
 
 </Project>

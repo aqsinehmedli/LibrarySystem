@@ -14,7 +14,7 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
     }
     public async Task<bool> Delete(int id, int deletedBy)
     {
-        var checkSql = @"SELECT Id FROM Users WHERE Id=@id and I=isDeleted=0";
+        var checkSql = @"SELECT Id FROM Users WHERE Id=@id and isDeleted=0";
         var sql = $@"UPDATE Users
                   SET isDeleted = 1,
                   DeletedBy = @deletedBy,
@@ -30,11 +30,11 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
     }
     public IQueryable<User> GetAll()
     {
-        return _context.Users.OrderByDescending(c => c.CreatedDate).Where(c => c.IsDeleted == false);
+        return null; /*_context.Users.OrderByDescending(c => c.CreatedDate).Where(c => c.IsDeleted == false);*/
     }
     public async Task<User> GetByEmailAsync(string email)
     {
-        var sql = @"SELECT * FROM Users WHERE Email = @emailand isDeleted = 0";
+        var sql = @"SELECT * FROM Users WHERE Email = @email and isDeleted = 0";
         using var conn = OpenConnection();
         return await conn.QueryFirstOrDefaultAsync<User>(sql, new { email });
     }
@@ -48,7 +48,7 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
 
     public async Task RegisterAsync(User user)
     {
-        var sql = @"INSERT INTO Users ([Name],[UserName],[Surname],[FatherName],[Email],[Address],[MobilePhone],[CardNumber],[TableNumber],[BirthDate],[DateOfEmployment],[DateOfDissmissal],[Note],[Gender],[UserType][CreatedBy])
+        var sql = @"INSERT INTO Users ([Name],[UserName],[Surname],[FatherName],[Email],[Address],[MobilePhone],[CardNumber],[TableNumber],[BirthDate],[DateOfEmployment],[DateOfDissmissal],[Note],[Gender],[UserType],[CreatedBy])
                   VALUES(@Name,@UserName,@Surname,@FatherName,@Email,@Address,@MobilePhone,@CardNumber,@TableNumber,@BirthDate,@DateOfEmployment,@DateOfDissmissal,@Note,@Gender,@UserType,@CreatedBy);SELECT SCOPE_IDENTITY()";
         using var conn = OpenConnection();
         var generetId = await conn.ExecuteScalarAsync<int>(sql, user);
@@ -68,7 +68,7 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
                   MobilePhone = @MobilePhone,
                   CardNumber = @CardNumber,
                   TableNumber = @TableNumber,
-                  Birthdate = @BirthDate,
+                  BirthD ate = @BirthDate,
                   DateOfEmployment = @DateOfEmployment,
                   DateOfDissmissal = @DateOfDissmissal,
                   Note = @Note,

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\bin\Debug\net8.0\A.Common.deps.json
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\bin\Debug\net8.0\A.Common.dll
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\bin\Debug\net8.0\A.Common.pdb
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.AssemblyInfo.cs
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.sourcelink.json
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.dll
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\refint\A.Common.dll
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.pdb
+C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\ref\A.Common.dll

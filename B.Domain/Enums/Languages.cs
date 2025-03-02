@@ -1,6 +1,6 @@
 ﻿namespace B.Domain.Enums;
 
-public enum Languages
+public enum Languages:int
 {
     az = 1,
     en = 2,

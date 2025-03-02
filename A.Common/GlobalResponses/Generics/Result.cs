@@ -1,5 +1,4 @@
-﻿
-namespace A.Common.GlobalResponses.Generics;
+﻿namespace A.Common.GlobalResponses.Generics;
 
 public class Result<T>:Result
 {

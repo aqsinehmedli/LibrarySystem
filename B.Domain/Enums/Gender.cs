@@ -1,6 +1,6 @@
 ﻿namespace B.Domain.Enums;
 
-public enum Gender
+public enum Gender:int
 {
     Male = 1,
     Female = 2

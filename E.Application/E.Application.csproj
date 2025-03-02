@@ -7,16 +7,26 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="AutoMapper\" />
+    <Compile Remove="CQRS\Users\Command\**" />
+    <EmbeddedResource Remove="CQRS\Users\Command\**" />
+    <None Remove="CQRS\Users\Command\**" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\A.Common\A.Common.csproj" />
     <ProjectReference Include="..\C.Repository\C.Repository.csproj" />
+    <ProjectReference Include="..\D.DAL.SqlServer\D.DAL.SqlServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CQRS\Users\Handlers\Queries\" />
   </ItemGroup>
 
 </Project>

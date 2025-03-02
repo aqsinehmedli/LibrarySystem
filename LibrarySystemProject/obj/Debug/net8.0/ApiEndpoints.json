@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "LibrarySystemProject.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "E.Application.CQRS.Users.Handlers.Register\u002BCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
