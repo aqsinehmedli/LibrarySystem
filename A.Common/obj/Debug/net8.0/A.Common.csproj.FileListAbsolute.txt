@@ -10,3 +10,15 @@ C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Comm
 C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\refint\A.Common.dll
 C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\A.Common.pdb
 C:\Users\User\source\repos\LibrarySystemProject\A.Common\obj\Debug\net8.0\ref\A.Common.dll
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\bin\Debug\net8.0\A.Common.deps.json
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\bin\Debug\net8.0\A.Common.dll
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\bin\Debug\net8.0\A.Common.pdb
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.AssemblyInfoInputs.cache
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.AssemblyInfo.cs
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.sourcelink.json
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.dll
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\refint\A.Common.dll
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\A.Common.pdb
+C:\Users\Ahmed_hb29\Desktop\LibrarySystem\A.Common\obj\Debug\net8.0\ref\A.Common.dll

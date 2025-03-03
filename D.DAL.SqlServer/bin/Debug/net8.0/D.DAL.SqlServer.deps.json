@@ -565,10 +565,7 @@
       },
       "B.Domain/1.0.0": {
         "runtime": {
-          "B.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "B.Domain.dll": {}
         }
       },
       "C.Repository/1.0.0": {
@@ -576,10 +573,7 @@
           "B.Domain": "1.0.0"
         },
         "runtime": {
-          "C.Repository.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "C.Repository.dll": {}
         }
       }
     }

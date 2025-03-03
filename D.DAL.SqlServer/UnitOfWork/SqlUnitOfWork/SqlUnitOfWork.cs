@@ -12,4 +12,6 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
     public SqlUserRepository _userRepository;
 
     public IUserRepository UserRepository => _userRepository ?? new SqlUserRepository(_connectionString,_context);
+
+    public IBookRepository BookRepository => throw new NotImplementedException();
 }

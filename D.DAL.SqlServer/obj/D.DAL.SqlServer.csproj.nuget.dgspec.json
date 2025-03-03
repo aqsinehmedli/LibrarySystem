@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj": {}
+    "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj": {
+    "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj",
         "projectName": "B.Domain",
-        "projectPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ahmed_hb29\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed_hb29\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\C.Repository.csproj": {
+    "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\C.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj",
         "projectName": "C.Repository",
-        "projectPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\C.Repository.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj",
+        "packagesPath": "C:\\Users\\Ahmed_hb29\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed_hb29\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj"
+              "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj"
               }
             }
           }
@@ -126,21 +134,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj": {
+    "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj",
         "projectName": "D.DAL.SqlServer",
-        "projectPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\D.DAL.SqlServer\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\D.DAL.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Ahmed_hb29\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed_hb29\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,11 +167,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\B.Domain\\B.Domain.csproj"
+              "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj"
               },
-              "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\C.Repository.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\LibrarySystemProject\\C.Repository\\C.Repository.csproj"
+              "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj": {
+                "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj"
               }
             }
           }
@@ -208,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

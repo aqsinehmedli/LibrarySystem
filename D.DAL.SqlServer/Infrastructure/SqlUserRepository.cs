@@ -2,6 +2,7 @@
 using C.Repository.Repositories;
 using D.DAL.SqlServer.Context;
 using Dapper;
+using Microsoft.EntityFrameworkCore;
 
 namespace D.DAL.SqlServer.Infrastructure;
 
@@ -30,7 +31,7 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
     }
     public IQueryable<User> GetAll()
     {
-        return null; /*_context.Users.OrderByDescending(c => c.CreatedDate).Where(c => c.IsDeleted == false);*/
+        return _context.Users.OrderByDescending(c => c.CreatedDate).Where(c => c.IsDeleted == false);
     }
     public async Task<User> GetByEmailAsync(string email)
     {
