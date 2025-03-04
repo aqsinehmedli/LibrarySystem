@@ -47,7 +47,7 @@ public class Register
                 Surname = request.Surname,
                 FatherName = request.FatherName,
                 Email = request.Email,
-                PasswordHash = request.Password, // Burada şifrenin hash'lenmiş değeri atanacak
+                PasswordHash = request.Password,
                 Address = request.Address,
                 MobilePhone = request.MobilePhone,
                 CardNumber = request.CardNumber,
@@ -56,8 +56,8 @@ public class Register
                 DateOfEmployment = request.DateOfEmployment,
                 DateOfDissmissal = request.DateOfDissmissal,
                 Note = request.Note,
-                Gender = (Gender)request.Gender, // Gender enum dönüşümü
-                UserType = (UserType)request.UserType // UserType enum dönüşümü
+                Gender = (Gender)request.Gender, 
+                UserType = (UserType)request.UserType
             };
 
             var hashPassword = PasswordHasher.ComputeStringToSha256Hash(request.Password);
@@ -71,7 +71,7 @@ public class Register
                 Surname = newUser.Surname,
                 FatherName = newUser.FatherName,
                 Email = newUser.Email,
-                Password = newUser.PasswordHash, // Burada şifrenin hash'lenmiş hali atanacak
+                Password = newUser.PasswordHash,
                 Address = newUser.Address,
                 MobilePhone = newUser.MobilePhone,
                 CardNumber = newUser.CardNumber,
@@ -80,8 +80,8 @@ public class Register
                 DateOfEmployment = newUser.DateOfEmployment,
                 DateOfDissmissal = newUser.DateOfDissmissal,
                 Note = newUser.Note,
-                Gender = (int)newUser.Gender, // Gender enum'dan int'e dönüşüm
-                UserType = (int)newUser.UserType // UserType enum'dan int'e dönüşüm
+                Gender = (int)newUser.Gender, 
+                UserType = (int)newUser.UserType 
             };
 
             return new Result<RegisterDto> { Data = response, Errors = [], IsSuccess = true };

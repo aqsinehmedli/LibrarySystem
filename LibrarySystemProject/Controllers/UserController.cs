@@ -10,7 +10,12 @@ public class UserController(IMediator mediator) : ControllerBase
     private readonly IMediator _mediator = mediator;
 
     [HttpPost]
-    public async Task<IActionResult> Register([FromBody] Command request)
+    public async Task<IActionResult> Register([FromQuery] E.Application.CQRS.Users.Handlers.Command.Register.Command request)
+    {
+        return Ok(await _mediator.Send(request));
+    }
+    [HttpPut]
+    public async Task<IActionResult> Update([FromBody] E.Application.CQRS.Users.Handlers.Command.Update.Command request)
     {
         return Ok(await _mediator.Send(request));
     }

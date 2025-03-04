@@ -93,7 +93,6 @@ C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\
 C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\LibrarySystemProject.dll
 C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\LibrarySystemProject.pdb
 C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Ahmed_hb29\Desktop\LibrarySystem\LibrarySystemProject\bin\Debug\net8.0\Dapper.dll

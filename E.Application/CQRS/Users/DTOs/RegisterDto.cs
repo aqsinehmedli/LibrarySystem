@@ -12,9 +12,9 @@ public record struct RegisterDto
     public string MobilePhone { get; set; }
     public string CardNumber { get; set; }
     public string TableNumber { get; set; }
-    public DateTime Birthdate { get; set; }
-    public DateTime DateOfEmployment { get; set; }
-    public DateTime DateOfDissmissal { get; set; }
+    public DateTime? Birthdate { get; set; }
+    public DateTime? DateOfEmployment { get; set; }
+    public DateTime? DateOfDissmissal { get; set; }
     public string Note { get; set; }
     public int Gender { get; set; }
     public int UserType { get; set; }

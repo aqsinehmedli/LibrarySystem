@@ -49,8 +49,8 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
 
     public async Task RegisterAsync(User user)
     {
-        var sql = @"INSERT INTO Users ([Name],[UserName],[Surname],[FatherName],[Email],[Address],[MobilePhone],[CardNumber],[TableNumber],[BirthDate],[DateOfEmployment],[DateOfDissmissal],[Note],[Gender],[UserType],[CreatedBy])
-                  VALUES(@Name,@UserName,@Surname,@FatherName,@Email,@Address,@MobilePhone,@CardNumber,@TableNumber,@BirthDate,@DateOfEmployment,@DateOfDissmissal,@Note,@Gender,@UserType,@CreatedBy);SELECT SCOPE_IDENTITY()";
+        var sql = @"INSERT INTO Users ([Name],[UserName],[Surname],[FatherName],[Email],[PasswordHash],[Address],[MobilePhone],[CardNumber],[TableNumber],[BirthDate],[DateOfEmployment],[DateOfDissmissal],[Note],[Gender],[UserType],[CreatedBy])
+                  VALUES(@Name,@UserName,@Surname,@FatherName,@Email,@PasswordHash,@Address,@MobilePhone,@CardNumber,@TableNumber,@BirthDate,@DateOfEmployment,@DateOfDissmissal,@Note,@Gender,@UserType,@CreatedBy);SELECT SCOPE_IDENTITY()";
         using var conn = OpenConnection();
         var generetId = await conn.ExecuteScalarAsync<int>(sql, user);
         user.Id = generetId;
