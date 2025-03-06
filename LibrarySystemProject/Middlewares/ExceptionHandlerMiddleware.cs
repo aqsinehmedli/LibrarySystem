@@ -23,7 +23,7 @@ public class ExceptionHandlerMiddleware(RequestDelegate next)
                     var message = new List<string>() { error.Message };
                     await WriteError(context, HttpStatusCode.BadRequest, message);
                     break;
-                case ToManyRequestException:
+                case TooManyRequestException:
                     message = [error.Message];
                     await WriteError(context,HttpStatusCode.TooManyRequests, message);
                     break;

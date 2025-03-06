@@ -3,92 +3,135 @@
   "WorkspaceRootPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\b.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\b.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\validators\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\validators\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\b.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\c.repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\unitofwork\\sqlunitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\unitofwork\\sqlunitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\services\\deleteuserbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\services\\deleteuserbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\command\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\command\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\command\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\command\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\command\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\command\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\queries\\getbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\queries\\getbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\pipelinebehaviours\\validationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\pipelinebehaviours\\validationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\books\\validators\\createbookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\books\\validators\\createbookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\b.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\books\\handlers\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\books\\handlers\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\command\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\command\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\books\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\books\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\dtos\\getbyemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\dtos\\getbyemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\queries\\getbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\queries\\getbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\command\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\command\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\handlers\\command\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\handlers\\command\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\c.repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\common\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\unitofwork\\sqlunitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\unitofwork\\sqlunitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\c.repository\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\infrastructure\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\infrastructure\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\b.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\baseentities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\d.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A44B7E-492D-45B0-B5D9-230550A778EC}|D.DAL.SqlServer\\D.DAL.SqlServer.csproj|solutionrelative:d.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\c.repository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4770FD54-ED24-41BD-891F-80AFDF2CE124}|C.Repository\\C.Repository.csproj|solutionrelative:c.repository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2843C56C-47FF-42FD-BA9C-028041EDB5AA}|A.Common\\A.Common.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\a.common\\exceptions\\toomanyrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2843C56C-47FF-42FD-BA9C-028041EDB5AA}|A.Common\\A.Common.csproj|solutionrelative:a.common\\exceptions\\toomanyrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/LibrarySystemDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\services\\deleteuserbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\services\\deleteuserbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\b.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4613805-6C15-4412-8E13-E32817986272}|B.Domain\\B.Domain.csproj|solutionrelative:b.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\cqrs\\users\\validators\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\cqrs\\users\\validators\\updateuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
@@ -99,28 +142,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\librarysystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{38C2634C-98AE-464B-8036-092692295891}|LibrarySystemProject\\LibrarySystemProject.csproj|solutionrelative:librarysystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|c:\\users\\ahmed_hb29\\desktop\\librarysystem\\e.application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E047D275-0DBB-4BC5-B3E3-C3B1EC53B9B3}|E.Application\\E.Application.csproj|solutionrelative:e.application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery6.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,115 +153,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\BaseEntities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "B.Domain\\BaseEntities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\BaseEntities\\BaseEntity.cs",
-              "RelativeToolTip": "B.Domain\\BaseEntities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:40:48.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "B.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "B.Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CreateBookValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Books\\Validators\\CreateBookValidator.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Books\\Validators\\CreateBookValidator.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Books\\Validators\\CreateBookValidator.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Books\\Validators\\CreateBookValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:40:36.473Z",
+              "WhenOpened": "2025-03-06T16:44:08.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Create.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Books\\Handlers\\Create.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Books\\Handlers\\Create.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Books\\Handlers\\Create.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Books\\Handlers\\Create.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:24:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:18:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "B.Domain\\Entities\\Book.cs",
               "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\Entities\\Book.cs",
               "RelativeToolTip": "B.Domain\\Entities\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T14:36:23.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SqlUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
-              "RelativeDocumentMoniker": "D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
-              "RelativeToolTip": "D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "DocumentIndex": 1,
+              "Title": "ValidationPipelineBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "RelativeDocumentMoniker": "E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "RelativeToolTip": "E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:22:05.857Z",
+              "WhenOpened": "2025-03-06T14:01:38.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "E.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "E.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:03:52.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowFMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:29:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:22:09.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetByEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA3wBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:29:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetByEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwC0AAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:29:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:52:03.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:35:54.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Books\\DTOs\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Books\\DTOs\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Books\\DTOs\\CreateBookDto.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Books\\DTOs\\CreateBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:21:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\Common\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "C.Repository\\Common\\IUnitOfWork.cs",
               "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\Common\\IUnitOfWork.cs",
               "RelativeToolTip": "C.Repository\\Common\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T14:21:19.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeleteUserBackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\Services\\DeleteUserBackgroundService.cs",
-              "RelativeDocumentMoniker": "E.Application\\Services\\DeleteUserBackgroundService.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\Services\\DeleteUserBackgroundService.cs",
-              "RelativeToolTip": "E.Application\\Services\\DeleteUserBackgroundService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:14:34.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RateLimitMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
-              "RelativeDocumentMoniker": "LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
-              "RelativeToolTip": "LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:09:17.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:05:13.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "D.DAL.SqlServer\\DependencyInjections.cs",
@@ -251,117 +352,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "E.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "E.Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:03:52.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ValidationPipelineBehaviour.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
-              "RelativeDocumentMoniker": "E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
-              "RelativeToolTip": "E.Application\\PipelineBehaviours\\ValidationPipelineBehaviour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T14:01:38.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Update.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Command\\Update.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAywCsAAABPAAAA",
+              "Title": "SqlUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
+              "RelativeToolTip": "D.DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork\\SqlUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:35:54.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SqlUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
-              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
-              "RelativeToolTip": "D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:44:47.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Program.cs",
-              "RelativeDocumentMoniker": "LibrarySystemProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Program.cs",
-              "RelativeToolTip": "LibrarySystemProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:34:10.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExceptionHandlerMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "RelativeDocumentMoniker": "LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "RelativeToolTip": "LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:50:51.566Z",
+              "WhenOpened": "2025-03-06T14:22:05.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "GetByEmail.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Queries\\GetByEmail.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAUwDAAAABaAAAA",
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "C.Repository\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "C.Repository\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:29:59.641Z",
+              "WhenOpened": "2025-03-06T15:56:08.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Command\\Delete.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "DocumentIndex": 17,
+              "Title": "SqlBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\SqlBookRepository.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Infrastructure\\SqlBookRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\SqlBookRepository.cs",
+              "RelativeToolTip": "D.DAL.SqlServer\\Infrastructure\\SqlBookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:52:03.774Z",
+              "WhenOpened": "2025-03-06T15:56:36.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\BaseEntities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "B.Domain\\BaseEntities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\BaseEntities\\BaseEntity.cs",
+              "RelativeToolTip": "B.Domain\\BaseEntities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:40:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "D.DAL.SqlServer\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Context\\AppDbContext.cs",
               "RelativeToolTip": "D.DAL.SqlServer\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T12:29:19.267Z",
               "EditorCaption": ""
@@ -369,69 +418,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "LibrarySystemProject\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Controllers\\UserController.cs",
-              "RelativeToolTip": "LibrarySystemProject\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Title": "BaseSqlRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
+              "RelativeToolTip": "D.DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:34:44.788Z",
+              "WhenOpened": "2025-03-06T15:56:19.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "GetByEmailDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\DTOs\\GetByEmailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Title": "SqlUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "RelativeDocumentMoniker": "D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "RelativeToolTip": "D.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:29:20.773Z",
+              "WhenOpened": "2025-03-06T12:44:47.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegisterUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\Validators\\RegisterUserValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABOAAAA",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "C.Repository\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "C.Repository\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:18:07.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
-              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
-              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
-              "RelativeToolTip": "E.Application\\CQRS\\Users\\Handlers\\Command\\Register.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAowCoAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:29:30.185Z",
+              "WhenOpened": "2025-03-06T15:56:06.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "SQLQuery2.sql ",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery2.sql",
-              "RelativeDocumentMoniker": "SQLQuery2.sql",
-              "ToolTip": "SQLQuery2.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-06T12:32:06.795Z",
+              "Title": "RateLimitMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeDocumentMoniker": "LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeToolTip": "LibrarySystemProject\\Middlewares\\RateLimitMiddleware.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:09:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TooManyRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\A.Common\\Exceptions\\TooManyRequestException.cs",
+              "RelativeDocumentMoniker": "A.Common\\Exceptions\\TooManyRequestException.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\A.Common\\Exceptions\\TooManyRequestException.cs",
+              "RelativeToolTip": "A.Common\\Exceptions\\TooManyRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:42:40.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "LibrarySystemProject\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:50:51.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\appsettings.json",
               "RelativeDocumentMoniker": "LibrarySystemProject\\appsettings.json",
@@ -444,18 +508,101 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SQLQuery6.sql ",
-              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery6.sql",
-              "RelativeDocumentMoniker": "SQLQuery6.sql",
-              "ToolTip": "SQLQuery6.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-06T12:30:31.314Z",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystemProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Program.cs",
+              "RelativeToolTip": "LibrarySystemProject\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:34:10.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
+              "Title": "UpdateUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
+              "RelativeDocumentMoniker": "E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
+              "RelativeToolTip": "E.Application\\CQRS\\Users\\Validators\\UpdateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:05:13.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteUserBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\Services\\DeleteUserBackgroundService.cs",
+              "RelativeDocumentMoniker": "E.Application\\Services\\DeleteUserBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\Services\\DeleteUserBackgroundService.cs",
+              "RelativeToolTip": "E.Application\\Services\\DeleteUserBackgroundService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:14:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/LibrarySystemDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-06T15:38:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "B.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "B.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:40:36.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LibrarySystemProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\LibrarySystemProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LibrarySystemProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:34:44.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-06T12:32:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SQLQuery6.sql",
+              "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery6.sql",
+              "RelativeDocumentMoniker": "SQLQuery6.sql",
+              "ToolTip": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\SQLQuery6.sql",
+              "RelativeToolTip": "SQLQuery6.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-06T12:30:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\E.Application\\AutoMapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "E.Application\\AutoMapper\\MappingProfile.cs",
@@ -463,8 +610,7 @@
               "RelativeToolTip": "E.Application\\AutoMapper\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T16:15:47.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T16:15:47.916Z"
             }
           ]
         }

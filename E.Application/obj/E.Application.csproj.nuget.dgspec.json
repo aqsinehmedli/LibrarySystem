@@ -232,6 +232,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\A.Common\\A.Common.csproj": {
+                "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\A.Common\\A.Common.csproj"
+              },
               "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj": {
                 "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj"
               },
@@ -320,6 +323,9 @@
             "projectReferences": {
               "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\A.Common\\A.Common.csproj": {
                 "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\A.Common\\A.Common.csproj"
+              },
+              "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\B.Domain\\B.Domain.csproj"
               },
               "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj": {
                 "projectPath": "C:\\Users\\Ahmed_hb29\\Desktop\\LibrarySystem\\C.Repository\\C.Repository.csproj"
