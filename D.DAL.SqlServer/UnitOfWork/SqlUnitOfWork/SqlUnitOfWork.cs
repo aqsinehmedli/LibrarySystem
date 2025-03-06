@@ -11,7 +11,12 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
     private readonly AppDbContext _context = context;
     public SqlUserRepository _userRepository;
 
-    public IUserRepository UserRepository => _userRepository ?? new SqlUserRepository(_connectionString,_context);
+    public IUserRepository UserRepository => _userRepository ?? new SqlUserRepository(_connectionString, _context);
 
     public IBookRepository BookRepository => throw new NotImplementedException();
+
+    public async Task<int> SaveChange()
+    {
+        return await _context.SaveChangesAsync();
+    }
 }

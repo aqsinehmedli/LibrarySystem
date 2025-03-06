@@ -6,4 +6,5 @@ public interface IUnitOfWork
 {
     public IBookRepository BookRepository { get; }
     public IUserRepository UserRepository { get; }
+    Task<int> SaveChange();
 }

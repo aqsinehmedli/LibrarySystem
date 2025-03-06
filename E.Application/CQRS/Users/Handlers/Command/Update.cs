@@ -1,4 +1,5 @@
-﻿using A.Common.GlobalResponses;
+﻿using A.Common.Exceptions;
+using A.Common.GlobalResponses;
 using A.Common.GlobalResponses.Generics;
 using AutoMapper;
 using B.Domain.Enums;
@@ -40,7 +41,7 @@ public class Update
         public async Task<Result<UpdateDto>> Handle(Command request, CancellationToken cancellationToken)
         {
             var currentUser = await _unitOfWork.UserRepository.GetByIdAsync(request.Id);
-            if (currentUser == null) throw new Exception($"User is not found! { request.Id}");
+            if (currentUser == null) throw new BadRequestException($"User is not found! { request.Id}");
             currentUser.Name = request.Name;
             currentUser.UserName = request.UserName;
             currentUser.Surname = request.Surname;

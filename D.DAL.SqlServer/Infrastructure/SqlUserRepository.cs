@@ -20,12 +20,17 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
                   SET isDeleted = 1,
                   DeletedBy = @deletedBy,
                   DeletedDate = GETDATE()
-                  WHERE Id = @id";
+                  WHERE Id = @id AND isDeleted = 0";
         using var conn = OpenConnection();
         using var transaction = conn.BeginTransaction();
         var userId = await conn.ExecuteScalarAsync<int?>(sql, new { id, deletedBy }, transaction);
         if (!userId.HasValue) return false;
         var affectedRows = await conn.ExecuteAsync(sql, new { id, deletedBy }, transaction);
+        if (affectedRows == 0)
+        {
+            transaction.Rollback(); // No rows affected, so rollback
+            return false; // No user found or already deleted
+        }
         transaction.Commit();
         return affectedRows > 0;
     }
@@ -69,7 +74,7 @@ public class SqlUserRepository : BaseSqlRepository, IUserRepository
                   MobilePhone = @MobilePhone,
                   CardNumber = @CardNumber,
                   TableNumber = @TableNumber,
-                  BirthD ate = @BirthDate,
+                  BirthDate = @BirthDate,
                   DateOfEmployment = @DateOfEmployment,
                   DateOfDissmissal = @DateOfDissmissal,
                   Note = @Note,

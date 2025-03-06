@@ -5,6 +5,8 @@ using System.Reflection;
 using MediatR;
 using E.Application.PipelineBehaviours;
 using FluentValidation;
+using ManagementSystem.Application.Services.BackgroundServices;
+//using E.Application.Services;
 namespace E.Application;
 
 public static class DependencyInjection
@@ -24,6 +26,7 @@ public static class DependencyInjection
         services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationPipelineBehaviour<,>));
 
         services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+        services.AddHostedService<DeleteUserBackgroundService>();
         return services;
     }
 }

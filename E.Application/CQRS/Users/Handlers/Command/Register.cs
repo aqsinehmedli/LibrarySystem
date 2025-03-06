@@ -7,6 +7,7 @@ using E.Application.CQRS.Users.DTOs;
 using MediatR;
 using A.Common.Secutiry;
 using B.Domain.Enums;
+using A.Common.Exceptions;
 namespace E.Application.CQRS.Users.Handlers.Command;
 
 public class Register
@@ -39,7 +40,7 @@ public class Register
         public async Task<Result<RegisterDto>> Handle(Command request, CancellationToken cancellationToken)
         {
             var isExist = await _unitOfWork.UserRepository.GetByEmailAsync(request.Email);
-            if (isExist != null) throw new Exception("User already registered with provided email");
+            if (isExist != null) throw new BadRequestException("User already registered with provided email");
             var newUser = new User
             {
                 Name = request.Name,

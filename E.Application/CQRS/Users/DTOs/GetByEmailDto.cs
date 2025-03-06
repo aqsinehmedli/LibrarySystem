@@ -1,7 +1,10 @@
-﻿namespace E.Application.CQRS.Users.DTOs;
+﻿using B.Domain.Enums;
 
-public class GetByIdDto
+namespace E.Application.CQRS.Users.DTOs;
+
+public class GetByEmailDto
 {
+    public int Id { get; set; } 
     public string Name { get; set; }
     public string UserName { get; set; }
     public string Surname { get; set; }
@@ -16,6 +19,6 @@ public class GetByIdDto
     public DateTime? DateOfEmployment { get; set; }
     public DateTime? DateOfDissmissal { get; set; }
     public string Note { get; set; }
-    public int Gender { get; set; }
-    public int UserType { get; set; }
+    public Gender Gender { get; set; }
+    public UserType UserType { get; set; }
 }
